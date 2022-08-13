@@ -102,3 +102,4 @@ class bitcoin-qt,bitcoind,bitcoin-cli,bitcoin-wallet bold
 
 - Validation code is moving from *libbitcoin_node* to *libbitcoin_kernel* as part of [The libbitcoinkernel Project #24303](https://github.com/bitcoin/bitcoin/issues/24303)
 - Source code organization is discussed in general in [Library source code organization #15732](https://github.com/bitcoin/bitcoin/issues/15732)
+- C
